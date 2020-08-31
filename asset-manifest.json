@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/FCC-FrontEndCertificate-3-DrumMachine/static/css/main.5f361e03.chunk.css",
-    "main.js": "/FCC-FrontEndCertificate-3-DrumMachine/static/js/main.60d45916.chunk.js",
-    "main.js.map": "/FCC-FrontEndCertificate-3-DrumMachine/static/js/main.60d45916.chunk.js.map",
+    "main.js": "/FCC-FrontEndCertificate-3-DrumMachine/static/js/main.38fc1346.chunk.js",
+    "main.js.map": "/FCC-FrontEndCertificate-3-DrumMachine/static/js/main.38fc1346.chunk.js.map",
     "runtime-main.js": "/FCC-FrontEndCertificate-3-DrumMachine/static/js/runtime-main.1ffceb00.js",
     "runtime-main.js.map": "/FCC-FrontEndCertificate-3-DrumMachine/static/js/runtime-main.1ffceb00.js.map",
     "static/js/2.afc516b9.chunk.js": "/FCC-FrontEndCertificate-3-DrumMachine/static/js/2.afc516b9.chunk.js",
     "static/js/2.afc516b9.chunk.js.map": "/FCC-FrontEndCertificate-3-DrumMachine/static/js/2.afc516b9.chunk.js.map",
     "index.html": "/FCC-FrontEndCertificate-3-DrumMachine/index.html",
-    "precache-manifest.d530dde5a1c84074a6cc17f8393983ce.js": "/FCC-FrontEndCertificate-3-DrumMachine/precache-manifest.d530dde5a1c84074a6cc17f8393983ce.js",
+    "precache-manifest.5a4d2defa08de283c55f1b36afe9cc42.js": "/FCC-FrontEndCertificate-3-DrumMachine/precache-manifest.5a4d2defa08de283c55f1b36afe9cc42.js",
     "service-worker.js": "/FCC-FrontEndCertificate-3-DrumMachine/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/FCC-FrontEndCertificate-3-DrumMachine/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.afc516b9.chunk.js.LICENSE.txt": "/FCC-FrontEndCertificate-3-DrumMachine/static/js/2.afc516b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1ffceb00.js",
     "static/js/2.afc516b9.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.60d45916.chunk.js"
+    "static/js/main.38fc1346.chunk.js"
   ]
 }

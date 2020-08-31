@@ -1,11 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d6500d8cab2f2ca7271a9aa6089b07d",
+    "revision": "406f3af0f55bd6ab4088125835ea5a42",
     "url": "/FCC-FrontEndCertificate-3-DrumMachine/index.html"
-  },
-  {
-    "revision": "df9eac36bd06c2c207e5",
-    "url": "/FCC-FrontEndCertificate-3-DrumMachine/static/css/main.5f361e03.chunk.css"
   },
   {
     "revision": "559e47db78938f0c8d48",
@@ -16,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FCC-FrontEndCertificate-3-DrumMachine/static/js/2.afc516b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df9eac36bd06c2c207e5",
-    "url": "/FCC-FrontEndCertificate-3-DrumMachine/static/js/main.60d45916.chunk.js"
+    "revision": "a1f3c29804ce68de772a",
+    "url": "/FCC-FrontEndCertificate-3-DrumMachine/static/js/main.38fc1346.chunk.js"
   },
   {
     "revision": "68218d38c47455250175",
